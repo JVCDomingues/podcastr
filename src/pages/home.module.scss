@@ -7,6 +7,12 @@
     margin-top: 3rem;
     margin-bottom: 1.5rem;
   }
+
+  ::-webkit-scrollbar-thumb {
+    background-color: var(--purple-500) !important;
+    width: 5px;
+  }
+
 }
 
 .latestEpisodes {
